@@ -22,7 +22,10 @@ GitHubに置くこと。
 URL https://www.youtube.com/watch?v=JBuilzmpt6o　
  
 # 6.調べたコマンドについて
-pythonのコマンドを調べた
+こちらがpythonのコマンドを調べるにあたって使用したサイトのURLである。<br>
+https://techacademy.jp/magazine/15831<br>
+https://www.headboost.jp/python-else-if/<br>
+
  
  
  
