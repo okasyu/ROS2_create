@@ -13,7 +13,7 @@ GitHubに置くこと。
 
 # 5.ROS2を実際に動かしている動画について
 こちらのURLからアクセスする。<br>
-URL　
+URL https://www.youtube.com/watch?v=JBuilzmpt6o　
  
  
  
